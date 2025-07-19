@@ -7,7 +7,8 @@ public class basic {
 
 	    System.out.println("Hello World");
         System.out.println("Starplatinum");
-		
+	System.out.println("The World");
+
 		
 	}
 
