@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="basic_java/src"/>
+	<classpathentry kind="src" path="GngQA/src/test/java"/>
+	<classpathentry kind="src" path="Java_Selenium_project/src"/>
+	<classpathentry kind="src" path="payshack/basic_java/src"/>
+	<classpathentry kind="src" path="payshack/Java_Selenium_project/src"/>
+	<classpathentry kind="src" path="payshack/Selenium_Test/src"/>
+	<classpathentry kind="src" path="payshack/TestingQA/src/test/java"/>
+	<classpathentry kind="src" path="Selenium_Test/src"/>
+	<classpathentry kind="src" path="TestingQA/src/test/java"/>
+	<classpathentry kind="output" path="GngQA/target/test-classes"/>
+</classpath>
